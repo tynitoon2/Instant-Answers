@@ -1,0 +1,4 @@
+<link rel="stylesheet" href="css/timestamp.css" type="text/css">
+<div class="ia__timestamp__body">
+{{= it.data}}
+</div>
